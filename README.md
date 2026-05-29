@@ -1,4 +1,4 @@
-# browser_from_terminal
+# Browser_from_terminal
 
 A simple Python automation project that lets you search Google directly from your terminal using a custom alias command.
 
@@ -18,6 +18,12 @@ and Safari automatically opens a filtered Google search.
 * Terminal / Zsh
 * VSCode
 * Python `webbrowser` module
+
+---
+
+# Demo
+
+https://github.com/user-attachments/assets/a401ddae-4972-49c2-b882-f7fb5af92eb6
 
 ---
 
@@ -64,12 +70,6 @@ Through this project, I learned:
 * How to use Python’s `webbrowser` module
 * How URLs and search queries are generated dynamically
 * Basic automation using Python and terminal commands
-
----
-
-# Demo
-
-https://github.com/user-attachments/assets/a401ddae-4972-49c2-b882-f7fb5af92eb6
 
 ---
 
