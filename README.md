@@ -1,7 +1,5 @@
 # browser_from_terminal
 
-# Browser From Terminal
-
 A simple Python automation project that lets you search Google directly from your terminal using a custom alias command.
 
 Instead of opening a browser manually and typing your search query, you can simply run:
@@ -66,6 +64,12 @@ Through this project, I learned:
 * How to use Python’s `webbrowser` module
 * How URLs and search queries are generated dynamically
 * Basic automation using Python and terminal commands
+
+---
+
+# Demo
+
+https://github.com/user-attachments/assets/a401ddae-4972-49c2-b882-f7fb5af92eb6
 
 ---
 
@@ -151,16 +155,6 @@ The project automatically searches within:
 ```
 
 This helps get more useful technical results.
-
----
-
-# Demo
-
-
-
-https://github.com/user-attachments/assets/a401ddae-4972-49c2-b882-f7fb5af92eb6
-
-
 
 ---
 
